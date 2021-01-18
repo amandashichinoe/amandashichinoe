@@ -12,7 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 
 
 
-### Languages and Tools :hammer::computer:
+### Linguagens e Ferramentas :hammer::computer:
 
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=c)  [![C#](https://img.shields.io/badge/-CSharp-000?&logo=C-sharp&logoColor=9370DB)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=csharp)  [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=FF4500)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=html)  [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1E90FF)](https://github.com/amandashichinoe)   [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=FFD700)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=javascript)  [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=python)  [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
 
@@ -28,7 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 
 
 
-### You can also find me on 
+### Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandashichinoe/)](https://www.linkedin.com/in/amandashichinoe/) 
 
