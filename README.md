@@ -64,10 +64,15 @@ Desenvolvedora RPA na T2C Consultoria.
 -->
 
 
+<p align = "center">
+  <a href="https://github.com/amandashichinoe">
+    <img alt="amanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amandashichinoe&show_icons=true&hide_border=true&theme=monokai" />
+  </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandashichinoe&layout=compact)
-
-
+  <a href="https://github.com/amandashichinoe">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amandashichinoe&langs_count=8&layout=compact&theme=monokai"/>
+  </a>
+</p>
 
 
 
