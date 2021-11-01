@@ -41,13 +41,13 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 
 [![Git](https://img.shields.io/badge/git-FFF?style=for-the-badge&logo=git&logoColor=FF6600)](https://git-scm.com/)  
 
-
+<!--
 ### Sistemas Operacionais
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
+-->
 
 ### Cloud
 
