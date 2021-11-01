@@ -10,7 +10,6 @@ Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou rea
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 
-Desenvolvedora RPA na T2C Consultoria. 
 
 
 
