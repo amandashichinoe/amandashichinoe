@@ -17,6 +17,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 
 <!--[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=c) -->
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=csharp)<!--[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=java) -->
+[![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=python)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=html) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/amandashichinoe)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=javascript)
