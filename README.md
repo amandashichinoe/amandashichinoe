@@ -22,8 +22,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-FFF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
 <img src="https://www.uipath.com/hubfs/Valentin/Brand-Kit/logos/UiPath-full-logo.svg?v=2.0" alt="UiPath - RPA Platform for Hyperautomation">
-[![Git](https://img.shields.io/badge/git-FFF?style=for-the-badge&logo=git&logoColor=FF6600)](https://git-scm.com/)  
-[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white3)](https://azure.microsoft.com/pt-br/) 
+[![Git](https://img.shields.io/badge/git-FFF?style=for-the-badge&logo=git&logoColor=FF6600)](https://git-scm.com/)  [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white3)](https://azure.microsoft.com/pt-br/) 
 [![Splunk](https://img.shields.io/badge/Splunk-FFF?style=for-the-badge&logo=splunk&logoColor=green)](https://www.splunk.com/)
 
 
@@ -44,4 +43,4 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 
 
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amandashichinoe/amandashichinoe/blob/output/github-contribution-grid-snake.svg)
