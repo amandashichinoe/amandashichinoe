@@ -42,5 +42,4 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amandashichinoe/)](https://www.linkedin.com/in/amandashichinoe/) 
 
 
-
 ![Snake animation](https://github.com/amandashichinoe/amandashichinoe/blob/output/github-contribution-grid-snake.svg)
