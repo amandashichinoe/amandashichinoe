@@ -31,7 +31,7 @@ Experiência com desenvolvimento RPA e atualmente trabalhando com AIOps.
 </a>
 
 
-<p text-align = "center">
+<div>
   <a href="https://github.com/amandashichinoe">
     <img alt="amanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amandashichinoe&show_icons=true&hide_border=true&theme=monokai" />
   </a>
@@ -39,7 +39,7 @@ Experiência com desenvolvimento RPA e atualmente trabalhando com AIOps.
   <a href="https://github.com/amandashichinoe">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amandashichinoe&langs_count=8&layout=compact&theme=monokai"/>
   </a>
-</p>
+</div>
 
 
 ### Contato
