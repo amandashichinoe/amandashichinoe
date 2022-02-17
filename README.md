@@ -6,13 +6,6 @@ Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou rea
 
 
 
-### Sobre mim​
-
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba.
-
-Experiência com desenvolvimento RPA e atualmente trabalhando com AIOps.
-
-
 ### Stack
 
 [![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/amandashichinoe?tab=repositories&q=&type=&language=python)
