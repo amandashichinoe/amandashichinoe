@@ -12,7 +12,7 @@ Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou rea
 ### Skills
 
 - Python
-- SQL (mySQL, BigQuery)
+- SQL
 - SPL (Splunk)
 - Power BI
 - Google Data Studio
