@@ -2,7 +2,7 @@
 
 Seja bem-vindx ao meu repositório do GitHub.
 
-Tenho experiência em desenvolvimento RPA (UiPath), desenvolvimento de scripts em Python e desenvolvimento de ETLs no ambiente Splunk.
+Tenho experiência em desenvolvimento RPA (UiPath), automações em Python e ETLs utilizando Splunk.
 
 Atualmente estou me especializando (Pós Graduação/MBA) em Análise e Ciência de Dados.
 
@@ -15,8 +15,8 @@ Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou rea
 - SQL
 - SPL (Splunk)
 - Power BI
-- Google Data Studio
 - Microsoft Excel / Google Sheets
+- Docker
 
 
 ### Certificações
