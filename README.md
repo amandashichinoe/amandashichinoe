@@ -1,8 +1,10 @@
 ## Olá, eu sou a Amanda :wave:
 
-Seja bem-vindx ao meu repositório do GitHub.
+Seja bem-vindx ao meu GitHub.
 
-Tenho experiência em desenvolvimento RPA (UiPath), automações em Python e ETLs utilizando Splunk.
+Tenho experiência em desenvolvimento RPA (UiPath), Python e Splunk.
+
+Trabalho em uma equipe de desenvolvimento de software de observabilidade e AIOps.
 
 Atualmente estou me especializando (Pós Graduação/MBA) em Análise e Ciência de Dados.
 
@@ -13,7 +15,7 @@ Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou rea
 
 - Python
 - SQL
-- SPL (Splunk)
+- Splunk
 - Power BI
 - Microsoft Excel / Google Sheets
 - Docker
