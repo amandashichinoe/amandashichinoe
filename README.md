@@ -11,7 +11,7 @@ Atualmente estou me especializando (Pós Graduação/MBA) em Análise e Ciência
 Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou realizando, estudos e alguns projetos pessoais.
 
 
-### Skills
+### Principais Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
