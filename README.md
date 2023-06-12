@@ -37,5 +37,6 @@ Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou rea
 
 ### Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amandashichinoe/)](https://www.linkedin.com/in/amandashichinoe/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amandashichinoe/)](https://www.linkedin.com/in/amandashichinoe/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@amandashichinoe)](https://medium.com/@amandashichinoe)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amandashichinoe@gmail.com)](mailto:amandashichinoe@gmail.com)
