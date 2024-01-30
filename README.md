@@ -1,14 +1,12 @@
 ## Olá, eu sou a Amanda :wave:
 
-Seja bem-vinde ao meu GitHub.
-
-Tenho experiência em desenvolvimento RPA (UiPath), Python e Splunk.
+Tenho experiência em desenvolvimento utilizando Python, JavaScript e Splunk.
 
 Trabalho em uma equipe de desenvolvimento de software de observabilidade e AIOps.
 
-Atualmente estou me especializando (Pós Graduação/MBA) em Análise e Ciência de Dados.
+Sou bacharel em Engenharia Mecânica, e pós graduada em Análise e Ciência de Dados.
 
-Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou realizando, estudos e alguns projetos pessoais.
+Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou realizando, e alguns projetos pessoais.
 
 
 ### Principais Skills
@@ -16,7 +14,6 @@ Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou rea
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-F2C811?style=for-the-badge&logo=javascript&logoColor=black)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
