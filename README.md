@@ -1,6 +1,6 @@
 ## Olá, eu sou a Amanda :wave:
 
-Tenho experiência em desenvolvimento utilizando Python, JavaScript e Splunk.
+Tenho experiência em desenvolvimento utilizando Python e JavaScript.
 
 Trabalho em uma equipe de desenvolvimento de software de observabilidade e AIOps.
 
