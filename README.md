@@ -1,39 +1,32 @@
-## Olá, eu sou a Amanda :wave:
+<h1 align="center">Amanda Shichinoe</h1>
+<p align="center">
+  <em>Software Engineer</em>
+</p>
 
-Tenho experiência em desenvolvimento utilizando Python e JavaScript.
+<p align="center">
+  <code>Python</code> • <code>JavaScript</code> • <code>Splunk</code> • <code>Docker</code>
+</p>
+<hr>
 
-Trabalho em uma equipe de desenvolvimento de software de observabilidade e AIOps.
+<p>
+Pós-graduada em Data Science e Analytics, atuo como Software Engineer em um time focado em soluções de observabilidade, com pessoas distribuídas em diferentes partes do mundo. Meu trabalho inclui o desenvolvimento de novas funcionalidades, testes automatizados, implantação das soluções em ambiente do cliente, automações e criação de documentação técnica.
 
-Sou bacharel em Engenharia Mecânica, e pós graduada em Análise e Ciência de Dados.
+Aqui, você encontrará repositórios de projetos realizados durante cursos, bem como alguns projetos pessoais que estou desenvolvendo, sempre com o objetivo de aplicar e expandir meus conhecimentos em tecnologia.
+</p>
 
-Aqui você encontra repositórios desenvolvidos em cursos que realizei/estou realizando, e alguns projetos pessoais.
-
-
-### Principais Skills
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-F2C811?style=for-the-badge&logo=javascript&logoColor=black)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-### Certificações
-
-<a href="https://www.credly.com/badges/35090127-6b7d-4571-8620-94c2599733b6/public_url">
-  <img src="./badges/azure-ai-fundamentals-600x600.png" alt="badge ai-900" width="150px" text-align="center">
-</a>
-
-
-<div>
-  <a href="https://github.com/amandashichinoe">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amandashichinoe&langs_count=8&layout=compact&theme=monokai"/>
-  </a>
+<hr><br>
+<div align="center">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandashichinoe&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandashichinoe&layout=compact&theme=radical&hide_border=true"/>
 </div>
-
-
-### Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amandashichinoe/)](https://www.linkedin.com/in/amandashichinoe/)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@amandashichinoe)](https://medium.com/@amandashichinoe)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amandashichinoe@gmail.com)](mailto:amandashichinoe@gmail.com)
+<br>
+<hr>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amandashichinoe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://amandashichinoe.substack.com/">
+    <img src="https://img.shields.io/badge/Substack-black?style=for-the-badge&logo=substack&logoColor=orange"/>
+  </a>
+</p>
